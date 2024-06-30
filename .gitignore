@@ -11,6 +11,8 @@
 # production
 /build
 
+sampleOutput.json
+newsapi.txt
 # misc
 .DS_Store
 .env.local
